@@ -1,5 +1,11 @@
-# Aqua [Gruvbox Theme](https://github.com/morhetz/gruvbox) for [Obsidian App](https://obsidian.md/) (v1.1.1)
+# Aqua [Gruvbox Theme](https://github.com/morhetz/gruvbox) (Dark) for [Obsidian](https://obsidian.md/) (v1.1.1)
 
-This project is basically a JSON file named `style-sttings`, containing all my exported settings for the [Style Settings plugin](https://github.com/obsidian-community/obsidian-style-settings).
+<img width="1092" height="591" alt="obsidian-gruvbox-aqua theme sample screenshot" src="https://github.com/user-attachments/assets/b86e9c9c-c24e-4405-8b1d-41bc20964e7d" />
 
-<img width="1366" height="739" alt="sample" src="https://github.com/user-attachments/assets/ecd17e12-f650-4384-bbbd-000e71715f81" />
+This project is essentially a JSON file named `style-settings`, containing my exported configurations for Obsidian's [Style Settings plugin](https://github.com/obsidian-community/obsidian-style-settings).
+
+To import the JSON file, **you must install (and use) the [Minimal theme](https://github.com/kepano/obsidian-minimal).**
+
+---
+
+*This configuration should work with Obsidian v1.x.x on all operating systems.*
